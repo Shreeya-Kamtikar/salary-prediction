@@ -1,1 +1,4 @@
-this project explores simple features of data representation and model training using streamlit
+In this project, the following aspects have been explored:
+1) Data Visualization using Streamlit
+2) Model Training
+
