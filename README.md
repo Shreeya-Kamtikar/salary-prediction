@@ -1,4 +1,1 @@
-# In this simple project, the following aspects have been explored:
-# 1. Data representation
-# 2. Model training
-# 3. Streamlit 
+this project explores simple features of data representation and model training using streamlit
