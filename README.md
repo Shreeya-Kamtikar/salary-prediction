@@ -1,4 +1,4 @@
 In this project, the following aspects have been explored:
-1) Data Visualization using Streamlit
-2) Model Training
-
+- Machine Learning model for analysis of salary statistics
+- Front end using Streamlit
+- Prediction of salary depending on age, years of experience
